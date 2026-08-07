@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "turbolumc.aternos.me",
-    "port": 61338,
+    "ip": "bokobok.aternos.me",
+    "port": 32807,
     "version": "",
     "try-creative": false
   },
