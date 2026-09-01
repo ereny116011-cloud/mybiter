@@ -1,5 +1,6 @@
 "use strict";
 
+process.env.HOME = process.env.HOME || '/tmp';
 const { addLog, getLogs } = require("./logger");
 const mineflayer = require("mineflayer");
 const { Movements, pathfinder, goals } = require("mineflayer-pathfinder");
